@@ -1,4 +1,4 @@
-# PCDE-Activity-9.1
+# Repository for activities 9.1 and 9.2
 
 ## Activity MIT
 <img src="image.png" width='300'/>
